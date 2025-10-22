@@ -1,7 +1,6 @@
 # Beylikdüzü Su Tesisatçısı 💧  
 
-![Beylikdüzü Su Tesisatçısı](https://github.com/zekiustanız/beylikduzu-su-tesisatcisi/blob/main/beylikduzu-tesisat.jpg?raw=true)
-
+![Beylikdüzü Su Tesisatçısı]
 **Kırımsız Su Kaçağı Tespiti, Tıkanıklık Açma, Petek Temizliği**
 
 Beylikdüzü’nde su tesisatı sorunlarını hızlı, garantili ve kırmadan çözüyoruz.  
